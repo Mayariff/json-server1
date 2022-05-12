@@ -1,0 +1,119 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Alex",
+      "surname": "Ivanov"
+    },
+    {
+      "id": "2",
+      "name": "Hanna",
+      "surname": "Petrova"
+    }
+  ],
+  "security_data": [
+    {
+      "id": "1",
+      "userId": "1",
+      "email": "1234@mail.ge",
+      "password": "1234"
+    },
+    {
+      "id": "2",
+      "userId": "2",
+      "email": "hanna@gmail.ru",
+      "password": "1234"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Alexandra",
+      "surname": "Petrova",
+      "email": "hanna@gmail.ru",
+      "phone": "+7 777 666",
+      "userId": "1",
+      "avatar": "https://avatarko.ru/img/kartinka/33/multfilm_lyagushka_32117.jpg",
+      "contactInfo": "Sister",
+      "id": "1"
+    },
+    {
+      "id": "3",
+      "userId": "2",
+      "name": "Max",
+      "surname": "Gordeev",
+      "phone": "+7 902 123",
+      "email": "Gord@yandex.ru",
+      "avatar": "",
+      "contactInfo": "sister"
+    },
+    {
+      "id": "4",
+      "userId": "2",
+      "name": "Alex",
+      "surname": "Ivanov",
+      "phone": "+7 999 999",
+      "email": "1234@mail.ge",
+      "avatar": "",
+      "contactInfo": "sister"
+    },
+    {
+      "id": "5",
+      "userId": "2",
+      "name": "Bumych",
+      "surname": "Ivanov",
+      "phone": "+7 800 800",
+      "email": "bumy4@mail.ge",
+      "avatar": "",
+      "contactInfo": "sister"
+    },
+    {
+      "name": "f",
+      "surname": "jcc",
+      "email": "79027972026@yandex.ru",
+      "phone": "777",
+      "id": "94xONFZ",
+      "avatar": "",
+      "contactInfo": "sister"
+    },
+    {
+      "name": "Илья ",
+      "surname": "Девятков",
+      "email": "ilya@gmail.ru",
+      "phone": "+7907 777 77 77",
+      "userId": "1",
+      "avatar": "",
+      "contactInfo": "Сolleague",
+      "id": "5auTqYj"
+    },
+    {
+      "name": "Mark",
+      "surname": "Ivanov",
+      "email": "rtyu@yandex.ru",
+      "phone": "+7 195 666 666",
+      "userId": "1",
+      "avatar": "",
+      "contactInfo": "Interior designer",
+      "id": "oImGinw"
+    },
+    {
+      "name": "Daria",
+      "surname": "M.",
+      "email": "79027972026@yandex.ru",
+      "phone": "+79027972026",
+      "userId": "1",
+      "avatar": "https://w-dog.ru/wallpapers/3/8/458029425161755/solnce-volna-ballonchik.jpg",
+      "contactInfo": "Dentist",
+      "id": "zj9kXMN"
+    },
+    {
+      "name": "Izzy",
+      "surname": "Mars",
+      "email": "izzy@gmail.ru",
+      "phone": "246 665 55",
+      "userId": "1",
+      "avatar": "",
+      "contactInfo": "Friend",
+      "id": "kqTCgq9"
+    }
+  ]
+}
